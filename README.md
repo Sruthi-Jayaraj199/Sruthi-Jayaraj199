@@ -44,5 +44,5 @@ My research focuses on **Air Quality Data analysis, VOC emissions, air pollution
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SruthiJayaraj-blue)](https://www.linkedin.com/in/sruthi-jayaraj-4b12b2125)  
-[![Google Scholar](https://img.shields.io/badge/Google Scholar-SruthiJayaraj-green)](https://scholar.google.com/citations?user=BUV2JG4AAAAJ&hl=en)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Sruthi%20Jayaraj-green)](https://scholar.google.com/citations?user=BUV2JG4AAAAJ&hl=en) 
 
