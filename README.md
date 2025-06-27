@@ -8,7 +8,7 @@ Thesis: *Characterization, Modeling, and Management Techniques for the Reduction
 
 ## 🚀 About Me  
 I am a **Program Associate at WRI India** with expertise in air quality measurements, modeling, and spatial analysis.  
-My research focuses on **Air Quality Data analysis, VOC emissions, air pollution mitigation and control, GIS-based air quality analysis, and risk assessment**.  
+My research focuses on **Air Quality Data analysis, VOC emissions, Air Pollution Mitigation and Control, GIS-based Air Quality analysis, and Risk Assessment**.  
 
 ## 🔬 Research Interests  
 - Air Quality Measurements & Modeling  
